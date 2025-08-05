@@ -1,1 +1,15 @@
-
+{
+  "latest_version": "1.0.22",
+  "minimum_required_version": "1.0.15",
+  "is_force_update": true,
+  "platform": "android",
+  "update_title": "업데이트가 필요합니다",
+  "update_message": "새로운 기능과 안정성을 위한 최신 버전이 출시되었습니다.\n업데이트 후 이용해주세요.",
+  "changelog": [
+    "문자 주소 자동 인식 개선",
+    "웹 동기화 속도 향상",
+    "버그 수정 및 안정화"
+  ],
+  "download_url": "https://example.com/app-release.apk",
+  "last_updated_at": "2025-08-06T10:30:00Z"
+}
