@@ -6,9 +6,8 @@
   "update_title": "새로운 업데이트",
   "update_message": "더 빠르고 안정적인 FARM SNS를 만나보세요!",
   "changelog": [
-    "문자 자동 분류 개선",
-    "주소 인식률 향상",
-    "버그 수정"
+    "보안강화",
+    "주소 인식률 향상"
   ],
   "download_url": "https://play.google.com/store/apps/details?id=com.jejubom.farmfree.mobile.app",
   "download_url_ios": "https://apps.apple.com/us/app/%ED%8C%9C%ED%94%84%EB%A6%AC/id6754825971",
