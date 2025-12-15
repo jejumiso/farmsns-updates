@@ -1,0 +1,13 @@
+{
+  "latest_version": "1.0.17",
+  "minimum_required_version": "1.0.17",
+  "is_force_update": false,
+  "update_title": "새로운 업데이트",
+  "update_message": "더 빠르고 안정적인 FARM SNS를 만나보세요!",
+  "changelog": [
+    "로딩 속도 개선",
+    "UI 개선"
+  ],
+  "download_url": "https://play.google.com/store/apps/details?id=com.jejubom.farmfree.mobile.app",
+  "last_updated_at": "2025-08-11T10:30:00Z"
+}
